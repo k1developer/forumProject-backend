@@ -1,3 +1,6 @@
+laravel 9
+php 8
+
 -- composer install
 
 -- ENV Config 
